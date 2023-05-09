@@ -11,6 +11,6 @@
 
 <p><b> 
         The findings here are unsurprising in that higher levels of water in the river system in question correlated
-        well with positive fishing reviews. This stands to reason becauser more water is usually good for fishing. Moving forward,
-        we would like to plot more data against the fishing report sentiment values to determine other trends.
+        well with positive fishing reviews. This stands to reason because more water is usually good for fishing. Moving forward,
+        we would like to plot other quantitative data against the fishing report sentiment values to determine other trends.
 </b></p>
