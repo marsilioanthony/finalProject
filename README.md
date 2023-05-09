@@ -18,5 +18,9 @@
 </b></p>
 
 ### In this repository you will find:
-#### Cleaned Versions of Rainfall and Water Discharge Data as .csv
-#### 
+#### Cleaned Versions of Rainfall and Water Discharge Data as .csv files (2 files)
+#### Final Project Powerpoint Slide Deck
+#### Final Project Summary as a Word document
+#### Rainfall vs. Fishing Report Sentiment Graphic
+#### Tailwater Streamflow vs. Fishing Report Sentiment Graphic
+#### Final Project Python Source Code (.ipynb format)
