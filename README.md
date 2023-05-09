@@ -5,8 +5,10 @@
         to find the strength of the positivity of the fishing reports on each day and joined them in a time series
         in order to chart these trends.
 </b></p>
+
 ## 
 ## 
+
 <p><b> 
         The findings here are unsurprising in that higher levels of water in the river system in question correlated
         well with positive fishing reviews. This stands to reason becauser more water is usually good for fishing. Moving forward,
