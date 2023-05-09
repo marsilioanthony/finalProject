@@ -16,3 +16,7 @@
         well with positive fishing reviews. This stands to reason because more water is usually good for fishing. Moving forward,
         we would like to plot other quantitative data against the fishing report sentiment values to determine other trends.
 </b></p>
+
+### In this repository you will find:
+#### Cleaned Versions of Rainfall and Water Discharge Data as .csv
+#### 
